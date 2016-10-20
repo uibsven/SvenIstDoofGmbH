@@ -20,5 +20,4 @@ Als Schüler sobald ich erfolgreich eingeloggt bin, ist meine Klasse auf dem Pro
 Meine Kompetenzen:
 Als Schüler nach dem ich erfolgreich eingeloggt bin, möchte ich meine erreichten Kompetenzen vom Kapitel 3 sehen. Dafür muss ich das Symbol-Zeichen „Meine Kompetenzen“ benutzen. Bei Hover sind die Kapitelzahl und –namen aufgelistet. Jedes Kapitel hat eigene Farbe.  Wenn meine Maus auf dem Kapitel 3 in der Liste schwebt, ändert sich die Hintergrundfarbe. Sobald ich auf Kapitel 3 klicke, lande ich in eine Website für das Kapitel 3. Die Hintergrundfarbe ist gleich der, die bei Hover auf der Liste steht. Oberlinks steht der Kapitelzahl und –name. In der Mitte sind vertikal über 5 Kompetenzensprechblasen dargestellt. Bei Hover über oder Klick auf das Sternsymbol zeigt sich das Datum, an dem ich meine Kompetenz erreicht habe. („Kompetenz erreicht am...“)
 Bei Hover über oder Klick auf das Förderplansymbol, werden die Informationen über die geplante Inhalte und Tätigkeiten gezeigt.
-
-
+Bei Hover über das Symbol „Meine Kompetenzen“ steht auch die Wahl „Alle Kompetenzen“ am Ende der Liste. Wenn man darauf klickt, sind alle von mir erreichten Kompetenzen nach dem Datum aufgelistet. Die neueste steht zuerst. Die Hintergrundfarbe ist eine besondere Farbe.
