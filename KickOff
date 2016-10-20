@@ -1,1 +1,24 @@
 
+Einloggen:
+Als Schüler möchte ich die von mir erreichten Kompetenzen in einer Liste sehen. Hierfür muss ich mich zuerst die Website http://student.check-lehrerzimmer.com aufrufen. Dann gebe ich meinen Benutzernamen und Passwort ein. Wenn das Passwort nicht vom System anerkannt wird, werde ich gefordert, das Passwort nochmal einzugeben, wobei ein Hinweis “Passwort vergessen?“ angeboten wird. Wenn ich auf diesen Hinweis klicke, werde ich nach meiner Email-Adresse verlangt. Das neue Passwort wird in meine Email-Adresse zugeschickt.
+
+Passwort ändern:
+Jetzt als Schüler will ich mein Passwort ändern. Bei Hover über das Profilbild sind die Buttons „Mein Profilbild ändern“, “Mein Passwort ändern“ und „Mein Profil löschen“ zu sehen.  Die Hintergrundfarbe der Wahlen ändert sich bei Hover. Dann klicke ich auf „Mein Passwort ändern“ im Profilmenü. Danach werde ich in einer neuen Webseite gefordert, das neue Passwort einzugeben und nochmal zu bestätigen. Nachdem ich auf  dem Button „Passwort übernehmen“ drücke, wird es mir mitgeteilt, dass das Passwort erfolgreich geändert wird. Dann werde ich auf die Einloggen-Seite übergeleitet. Jetzt muss ich zum Einloggen mein neue Passwort eingeben, um meine Kompetenzen zu sehen.
+
+Profilbild ändern:
+Als Schüler will ich jetzt mein Profilbild ändern. Bei Hover über das Profilbild sehe ich die Wahl „Mein Profilbild ändern“. Bei Hover ändert sich die Hintergrundfarbe. Nachdem ich darauf klicke, lande ich in einer Webseite, in der rund 150 Avataren auszuwählen sind. Die Avataren sind in mehrere Zeilen. Man kann die Zeilen scrollen, um die restlichen Avataren zu sehen. Mein kann nur einen von denen auswählen.  Wenn ein Avatar ausgewählt wird, ergibt sich einen kleinen auf dem gewählten Avatar. Man kann jetzt auf den Button „übernehmen“ klicken, um das Profilbild zu sichern. Man kann auch durch den Button „Abbrechen“ zurück  in die vorherige Webseite landen.
+
+Profil löschen:
+Als Schüler möchte ich mein Profil löschen. Bei Hover über mein Profilbild ist die Wahl „Profil löschen“ zu sehen. Darauf klicke ich. Dann werde ich gefordert , mein Passwort einzugeben. Nachdem ich mein Passwort richtig eingegeben und den Button „Profil löschen“ gedrückt habe, werde ich das System nochmal nach der Bestätigung gefragt, bzw. ob ich mein Profil jetzt wirklich löschen will. Sobald ich „Ja“ drücke, ist mein Profil gelöscht. Dann lande ich in der Webseite für Einloggen. Wenn ich bei der Frage nach der Bestätigung  auf den Button „Abbrechen“ klicke, lande ich wieder in der vorherigen Webseite. Wenn ich mein Passwort falsch eingegeben habe, wird der Hinweis in Rot gezeigt. Ich kann entweder mein Passwort wieder eingeben oder den Prozess abbrechen durch den Button „zurück“.
+
+Anzeige der Schul-Daten:
+Als Schüler möchte ich die Telefonnummer der Schule nachschlagen. Dafür muss ich nach dem erfolgreichen Einloggen das Gebäude-Zeichen benutzen. Bei Hover über dieses Zeichen sehe ich eine Visitenkarte, auf der  Schulname,  Adresse, Email-Adresse und  Telefonnummer stehen. Der Schulname ist ein Hyperlink. Wenn ich darauf klicke, sehe ich die Visitenkarte der  Schule auf einer eigenen Webseite. Da werden die Informationen übersichtlicher und genauer dargestellt als vorhin bei Hover.
+
+Anzeige der Klassen-Daten:
+Als Schüler sobald ich erfolgreich eingeloggt bin, ist meine Klasse auf dem Profilmenü wie ein Symbol zu sehen. Bei Hover ergibt sich der Klassenname als Hyperlink. Wenn ich darauf drücke, lande ich in einer Webseite, in der die Informationen über die Klasse übersichtlich dargestellt werden.
+
+Meine Kompetenzen:
+Als Schüler nach dem ich erfolgreich eingeloggt bin, möchte ich meine erreichten Kompetenzen vom Kapitel 3 sehen. Dafür muss ich das Symbol-Zeichen „Meine Kompetenzen“ benutzen. Bei Hover sind die Kapitelzahl und –namen aufgelistet. Jedes Kapitel hat eigene Farbe.  Wenn meine Maus auf dem Kapitel 3 in der Liste schwebt, ändert sich die Hintergrundfarbe. Sobald ich auf Kapitel 3 klicke, lande ich in eine Website für das Kapitel 3. Die Hintergrundfarbe ist gleich der, die bei Hover auf der Liste steht. Oberlinks steht der Kapitelzahl und –name. In der Mitte sind vertikal über 5 Kompetenzensprechblasen dargestellt. Bei Hover über oder Klick auf das Sternsymbol zeigt sich das Datum, an dem ich meine Kompetenz erreicht habe. („Kompetenz erreicht am...“)
+Bei Hover über oder Klick auf das Förderplansymbol, werden die Informationen über die geplante Inhalte und Tätigkeiten gezeigt.
+
+
