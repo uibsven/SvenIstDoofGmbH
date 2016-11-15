@@ -1,0 +1,55 @@
+.loginHeader {
+ width: 800px;
+ height: 400px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.form-signin {
+  width: 300px;
+  height: 40px;
+  margin-left: 400px;
+  margin-right: 400px;
+  border-radius: 8px;
+  border: 2px
+
+}
+input[placeholder] {
+  font-style:normal;
+  font-size: 13pt;
+  color: grey;
+}
+input{
+  font-family: "Roboto";
+  font-weight: lighter;
+
+}
+#inputPassword {
+  position: relative;
+  margin-top: 5px;
+}
+.loginButton {
+  background-color:black;
+  font-family: "Brandon Grotesque";
+  font-weight: bold;
+  font-size: 13pt;
+  border-radius: 8px;
+  color:white;
+  width:150px;
+  height: 50px;
+  position: relative;
+  margin-top: 5px;
+  margin-left: 80px;
+
+}
+.registerieren {
+  position: relative;
+  margin-top: 20px;
+  display: block;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: lighter;
+  font-size: 13pt;
+  color: #98b4cd;
+}
