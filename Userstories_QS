@@ -1,4 +1,4 @@
-
+test
 Einloggen:
 Als Schüler möchte ich die von mir erreichten Kompetenzen in einer Liste sehen. Hierfür muss ich mich zuerst die Website http://student.check-lehrerzimmer.com aufrufen. Dann gebe ich meinen Benutzernamen und Passwort ein. Wenn das Passwort nicht vom System anerkannt wird, werde ich gefordert, das Passwort nochmal einzugeben, wobei ein Hinweis “Passwort vergessen?“ angeboten wird. Wenn ich auf diesen Hinweis klicke, werde ich nach meiner Email-Adresse verlangt. Das neue Passwort wird in meine Email-Adresse zugeschickt.
 
