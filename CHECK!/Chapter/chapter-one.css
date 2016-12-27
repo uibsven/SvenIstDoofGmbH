@@ -1,0 +1,53 @@
+body {
+  background-color: #79ab2e;
+}
+
+#header {
+  background-color: #001a3a;
+  height: 60px;
+  width: 100%;
+  text-align: center;
+}
+
+#header1 {
+  text-align:left;
+  width: 33%;
+}
+
+#header2 {
+  width: 33%;
+}
+
+#header3 {
+  text-align: right;
+  width: 33%;
+}
+
+#burgermenu {
+  padding-left: 15px;
+  padding-right: 5px;
+}
+
+#plan {
+  padding-right: 5px;
+}
+
+#logout {
+  padding-right: 20px
+}
+
+#avatar {
+  padding-right: 5px;
+}
+
+#school {
+  padding-right: 5px;
+}
+
+#group {
+  padding-right: 10px;
+}
+
+#help {
+  padding-right: 5px;
+}
