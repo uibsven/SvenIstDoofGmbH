@@ -1,5 +1,6 @@
 body {
-  background-color: #a1c153;
+  background-color: #76b82d;
+
 }
 
 #header {
@@ -73,4 +74,16 @@ body {
 }
 #footerCheck2{
   color: #4565ad;
+}
+#scrollUp{
+  position: absolute;;
+      right: 30px;
+      top:90px;
+      height: 50px;
+}
+#scrollDown{
+  position: absolute;;
+      right: 30px;
+      down:60px;
+      height: 50px;
 }
