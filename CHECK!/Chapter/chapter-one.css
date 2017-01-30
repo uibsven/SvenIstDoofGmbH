@@ -57,10 +57,34 @@ body {
   width: 100%;
   text-align: center;
 }
+#illuLeft{
+  width: 33%;
+}
+#illuMittel{
+  width: 33%;
+}
+#illuRight{
+  width:33%;
+}
+#tuer{
+position: absolute;
+top:120px;
+left:10px;
+width:400px;
+
+}
+#kind{
+position: absolute;
+  right: 130px;
+  top:150px;
+  height: 700px;
+  width: 400px;
+
+}
 #littleChapterFlag {
   position: absolute;;
       top: 65px;
-      left: 6px;
+      left: 0px;
     height:60px
 }
 #footer {
@@ -82,8 +106,8 @@ body {
       height: 50px;
 }
 #scrollDown{
-  position: absolute;;
+  position: absolute;
       right: 30px;
-      down:60px;
+      top:700px;
       height: 50px;
 }
