@@ -1,5 +1,5 @@
 body {
-  background-color: #79ab2e;
+  background-color: #a1c153;
 }
 
 #header {
@@ -50,4 +50,18 @@ body {
 
 #help {
   padding-right: 5px;
+}
+#illustration {
+  height: 360px;
+  width: 100%;
+  text-align: center;
+}
+#littleChapterFlag {
+  position: absolute;;
+      top: 65px;
+      left: 6px;
+    height:60px
+}
+#tuer {
+
 }
